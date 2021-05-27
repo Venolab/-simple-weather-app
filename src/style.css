@@ -72,6 +72,7 @@ li :first-letter {
 }
 
 .forecast-temperature {
+  color: #a4b1b8;
   font-size: 13px;
 }
 .forecast-temperature-min {
