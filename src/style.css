@@ -71,3 +71,11 @@ a:active {
   color: rgb(33, 33, 33);
   cursor: default;
 }
+
+a .fahrenheit-link {
+  text-decoration: none;
+}
+
+a .celsius-link {
+  text-decoration: none;
+}
