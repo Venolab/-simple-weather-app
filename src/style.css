@@ -27,13 +27,13 @@ li :first-letter {
 }
 
 .weather-app-wrapper {
-  height: 600px;
+  height: 500px;
   margin: 30px auto;
 }
 
 .weather-app {
   padding: 200px;
-  border: 15px solid #5577a5;
+  border: 10px solid #dde3eb;
   border-radius: 10px;
 }
 
