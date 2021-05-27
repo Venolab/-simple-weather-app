@@ -48,14 +48,13 @@ li :first-letter {
 }
 
 .weather-temperature strong {
-  color: #a4b1b8
+  color: #a4b1b8;
   font-size: 64px;
   line-height: 1;
   font-weight: 200;
 }
 
 .weather-temperature .units {
-  ;
   position: relative;
   font-size: 16px;
   top: -32px;
