@@ -30,7 +30,7 @@ li ::first-letter {
 }
 
 .weather-app {
-  padding: 20px;
+  padding: 200px;
   border: 15px solid #5577a5;
   border-radius: 10px;
 }
