@@ -59,14 +59,9 @@ li :first-letter {
   top: 32px;
 }
 
-a .fahrenheit-link .active {
-  text-decoration: none;
-  color: #757b7c;
-}
-
-a .celsius-link .active {
-  text-decoration: none;
-  color: #757b7c;
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
 }
 
 a .celsius-link {
