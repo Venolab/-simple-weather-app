@@ -16,7 +16,7 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: rgb(56, 53, 53);
+  color: rgb(165, 165, 165);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -25,6 +25,7 @@ li {
 li :first-letter {
   text-transform: capitalize;
 }
+
 .weather-app-wrapper {
   height: 600px;
   margin: 30px auto;
