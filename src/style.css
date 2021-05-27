@@ -27,7 +27,7 @@ li :first-letter {
 }
 
 .weather-app-wrapper {
-  height: auto;
+  height: 600;
   margin: 30px auto;
 }
 
