@@ -79,13 +79,11 @@ li ::first-letter {
 
 a:hover {
   color: #0060b6;
-  text-decoration: none;
   cursor: pointer;
 }
 
 a:hover {
   color: #00a0c6;
-  text-decoration: none;
   cursor: pointer;
 }
 a .celsius-link {
