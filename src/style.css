@@ -88,6 +88,12 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
 }
+
+a .celsius-link .active {
+  text-decoration: underline;
+  color: #757b7c;
+}
+
 a .celsius-link {
   text-decoration: none;
   color: #757b7c;
