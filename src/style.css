@@ -71,11 +71,11 @@ a .celsius-link {
   color: #757b7c;
 }
 
-.weather-temperature .active:hover {
-  text-decoration: none;
-}
-
 a .fahrenheit-link {
   text-decoration: none;
   color: #757b7c;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
 }
