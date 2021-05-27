@@ -77,15 +77,6 @@ li ::first-letter {
   opacity: 0.5;
 }
 
-a .celsius-link {
-  color: #757b7c;
-  text-decoration: none;
-}
-a .fahrenheit-link {
-  color: #757b7c;
-  text-decoration: none;
-}
-
 a:hover {
   color: #0060b6;
   text-decoration: none;
@@ -96,4 +87,12 @@ a:hover {
   color: #00a0c6;
   text-decoration: none;
   cursor: pointer;
+}
+a .celsius-link {
+  color: #757b7c;
+  text-decoration: none;
+}
+a .fahrenheit-link {
+  color: #757b7c;
+  text-decoration: none;
 }
