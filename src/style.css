@@ -55,28 +55,10 @@ li :first-letter {
 }
 
 .weather-temperature .units {
+  color: #a4b1b8;
   position: relative;
   font-size: 16px;
   top: -32px;
-}
-
-.weather-forecast {
-  margin-top: 20px;
-  text-align: center;
-  color: #36454f;
-}
-
-.forecast-day {
-  font-size: 16px;
-  color: #36454f;
-}
-
-.forecast-temperature {
-  color: #a4b1b8;
-  font-size: 13px;
-}
-.forecast-temperature-min {
-  opacity: 0.5;
 }
 
 a .fahrenheit-link .active {
