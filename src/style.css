@@ -78,12 +78,12 @@ li ::first-letter {
 }
 
 a .celsius-link {
-  color: #0060b6;
+  color: #757b7c;
   text-decoration: none;
 }
 
 a:hover {
-  color: #757b7c;
+  color: #0060b6;
   text-decoration: none;
   cursor: pointer;
 }
