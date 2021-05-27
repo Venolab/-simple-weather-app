@@ -1,7 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background: linear-gradient(to top, #eee3de 0%, #ace0f9 100%);
-  list-style: none;
 }
 
 h1 {
@@ -12,6 +11,7 @@ h1 {
 ul {
   margin: 0;
   padding: 0;
+  list-style: none;
 }
 li {
   margin: 0;
@@ -66,7 +66,12 @@ li:first-letter {
 }
 
 a .celsius-link {
+  text-decoration: none;
   color: #757b7c;
+}
+
+.weather-temperature .active:hover {
+  text-decoration: none;
 }
 
 a .fahrenheit-link {
